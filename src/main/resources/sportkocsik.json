@@ -1,0 +1,114 @@
+[
+    {
+        "id": "1",
+        "marka": "Ferrari",
+        "modell": "488 GTB",
+        "loero": 670,
+        "vegsebesseg": 330,
+        "ar": 250000
+    },
+    {
+        "id": "2",
+        "marka": "Lamborghini",
+        "modell": "Huracan",
+        "loero": 640,
+        "vegsebesseg": 325,
+        "ar": 280000
+    },
+    {
+        "id": "3",
+        "marka": "Porsche",
+        "modell": "911 Turbo S",
+        "loero": 650,
+        "vegsebesseg": 330,
+        "ar": 220000
+    },
+    {
+        "id": "4",
+        "marka": "McLaren",
+        "modell": "720S",
+        "loero": 720,
+        "vegsebesseg": 341,
+        "ar": 300000
+    },
+    {
+        "id": "5",
+        "marka": "Aston Martin",
+        "modell": "DBS Superleggera",
+        "loero": 715,
+        "vegsebesseg": 340,
+        "ar": 320000
+    },
+    {
+        "id": "6",
+        "marka": "Bugatti",
+        "modell": "Chiron",
+        "loero": 1500,
+        "vegsebesseg": 420,
+        "ar": 3000000
+    },
+    {
+        "id": "7",
+        "marka": "Koenigsegg",
+        "modell": "Jesko",
+        "loero": 1600,
+        "vegsebesseg": 480,
+        "ar": 2800000
+    },
+    {
+        "id": "8",
+        "marka": "Mercedes-Benz",
+        "modell": "AMG GT Black Series",
+        "loero": 730,
+        "vegsebesseg": 325,
+        "ar": 350000
+    },
+    {
+        "id": 9,
+        "marka": "McLaren",
+        "modell": "570S",
+        "loero": 570,
+        "vegsebesseg": 328,
+        "ar": 200000000
+    },
+    {
+        "id": 10,
+        "marka": "Aston Martin",
+        "modell": "Valkyrie",
+        "loero": 1160,
+        "vegsebesseg": 400,
+        "ar": 450000000
+    },
+    {
+        "id": 11,
+        "marka": "Mercedes-Benz",
+        "modell": "AMG One",
+        "loero": 1000,
+        "vegsebesseg": 352,
+        "ar": 350000000
+    },
+    {
+        "id": 12,
+        "marka": "Ferrari",
+        "modell": "SF90 Stradale",
+        "loero": 1000,
+        "vegsebesseg": 340,
+        "ar": 320000000
+    },
+    {
+        "id": 13,
+        "marka": "Lamborghini",
+        "modell": "Sian",
+        "loero": 819,
+        "vegsebesseg": 350,
+        "ar": 380000000
+    },
+    {
+        "id": 14,
+        "marka": "Porsche",
+        "modell": "Taycan Turbo S",
+        "loero": 761,
+        "vegsebesseg": 260,
+        "ar": 120000000
+    }
+] 
